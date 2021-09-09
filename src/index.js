@@ -1,3 +1,4 @@
+import './styles.css';
 import menu from "../src/menu.json";
 import menuCardTpl from "../src/templates/menu-card.hbs";
 
