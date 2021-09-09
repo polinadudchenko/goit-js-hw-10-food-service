@@ -1,4 +1,3 @@
-import './sass/main.scss';
 import menu from "../src/menu.json";
 import menuCardTpl from "../src/templates/menu-card.hbs";
 
